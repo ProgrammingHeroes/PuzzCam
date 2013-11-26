@@ -1,0 +1,23 @@
+
+body {
+    background:
+        -webkit-gradient(linear, left top, left bottom, 
+           from(#FF566E), to(rgba(255, 255, 255, 0.3))) fixed;
+    background-color: #E6BE6F;
+    text-align: center;
+}
+
+#webcam {
+    position: relative;
+    vertical-align: top;
+    width: 200px;
+    -webkit-box-reflect: below 0px
+        -webkit-gradient(linear, left top, left bottom, 
+           from(transparent), to(rgba(255, 255, 255, 0.3)));
+}
+
+#logo {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
