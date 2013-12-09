@@ -1,3 +1,6 @@
+
+/* Script de puzzcam */
+
 var piezas, wPieza, hPieza;
 var PIEZAS_X, PIEZAS_Y;
 var canvas, ctx, webcam;
